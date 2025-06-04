@@ -56,7 +56,7 @@ You're free to use, modify, and share — just keep the credit.
 ## ✍️ Author
 
 **SmaRTy Saini Corp**  
-[GitHub Profile](https://github.com/) (link yours)  
+[GitHub Profile](https://github.com/SmaRTy-Saini/) (link yours)  
 Security | Automation | Linux Power
 
 ## 💬 Feedback / Suggestions
