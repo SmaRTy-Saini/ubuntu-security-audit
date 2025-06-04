@@ -4,6 +4,12 @@ A sleek, terminal-hacker-themed Ubuntu security audit script. Designed to quickl
 
 Built with ❤️ by **SmaRTy Saini Corp**
 
+##  Demo
+
+![Image](https://github.com/user-attachments/assets/7b96bb84-e1c3-45ec-aecf-53662e013102)
+
+
+
 ##  What It Does
 
 ✅ Checks for available **security updates**  
@@ -40,7 +46,7 @@ chmod +x ubuntu_security_audit.sh
 sudo ./ubuntu_security_audit.sh
 ```
 
-## 🧠 Why Use This?
+##  Why Use This?
 
 - Fast and informative
 - Requires **no third-party setup**
