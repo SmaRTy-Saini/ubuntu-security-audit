@@ -4,7 +4,7 @@ A sleek, terminal-hacker-themed Ubuntu security audit script. Designed to quickl
 
 Built with ❤️ by **SmaRTy Saini Corp**
 
-## 🚀 What It Does
+##  What It Does
 
 ✅ Checks for available **security updates**  
 ✅ Shows **firewall (UFW)** status  
@@ -56,7 +56,7 @@ You're free to use, modify, and share — just keep the credit.
 ## ✍️ Author
 
 **SmaRTy Saini Corp**  
-[GitHub Profile](https://github.com/SmaRTy-Saini/) (link yours)  
+[GitHub Profile](https://github.com/SmaRTy-Saini/) 
 Security | Automation | Linux Power
 
 ## 💬 Feedback / Suggestions
